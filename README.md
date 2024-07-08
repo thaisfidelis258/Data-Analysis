@@ -13,3 +13,6 @@ Preço unitário: Preço de uma unidade do produto.
 Preço total: Receita total gerada pela transação de vendas (Quantidade * Preço unitário).
 Região: Região geográfica onde a transação ocorreu (por exemplo, América do Norte, Europa, Ásia).
 Método de pagamento: Método usado para pagamento (por exemplo, cartão de crédito, PayPal, cartão de débito).
+
+Link do Data Set: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
+
