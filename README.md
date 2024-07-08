@@ -15,5 +15,5 @@ Região: Região geográfica onde a transação ocorreu (por exemplo, América d
 Método de pagamento: Método usado para pagamento (por exemplo, cartão de crédito, PayPal, cartão de débito).
 
 Link do Data Set: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
-Link para o Relatório: https://docs.google.com/presentation/d/1qm5OBz8KcypsW1cVw-Nb2XO5AKhWSPF533LtFPwOYqY/edit?usp=sharing
+
 
